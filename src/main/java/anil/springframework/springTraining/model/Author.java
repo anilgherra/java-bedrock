@@ -38,6 +38,10 @@ public class Author {
         this.books = books;
     }
 
+    /**
+     *
+     * @return
+     */
     public Long getId() {
         return id;
     }
